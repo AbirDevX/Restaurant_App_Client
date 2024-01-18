@@ -1,0 +1,7 @@
+export const OrderEnum = Object.freeze({
+  CANCEL: "CANCEL",
+  PROCESSED: "PROCESSED",
+  SHIPPED: "SHIPPED",
+  OUT_FOR_DELIVERY: "OUT_FOR_DELIVERY",
+  SUCCESS: "SUCCESS",
+});

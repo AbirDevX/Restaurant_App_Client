@@ -1,0 +1,17 @@
+strong {
+  font-weight: 600;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+.notification {
+  width: 200px;
+  padding: 15px;
+  border-radius: 5px;
+  position: absolute;
+  top: 4rem;
+  right: -20px;
+  background: #5c3d05;
+  color: aliceblue;
+}
